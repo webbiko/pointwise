@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/text_view_label_last"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/text_view_label_last_margin_top"
+        android:textSize="@dimen/text_view_label_queue_size_text_size"
+        android:layout_centerHorizontal="true"
+        android:text="@string/text_view_label_last"/>
+    <TextView
+        android:id="@+id/text_view_label_data"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_view_label_last"
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/text_view_label_data_text_size"
+        android:text="@string/text_view_no_value" />
+
+    <TextView
+        android:id="@+id/text_view_label_queue_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_view_label_queue_size_text_size"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/text_view_label_queue_size"/>
+    <TextView
+        android:id="@+id/text_view_queue_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_view_label_queue_size"
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/text_view_queue_size_text_size"
+        android:text="@string/text_view_no_value"/>
+</RelativeLayout>

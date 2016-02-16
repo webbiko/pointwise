@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pointwise</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_view_label_last">Last:</string>
+    <string name="text_view_label_queue_size">Queue Size:</string>
+    <string name="text_view_no_value">-</string>
+</resources>

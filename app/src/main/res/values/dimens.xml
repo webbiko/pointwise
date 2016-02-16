@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="text_view_label_last_margin_top">40dp</dimen>
+    <dimen name="text_view_label_queue_size_text_size">30sp</dimen>
+    <dimen name="text_view_label_data_text_size">40sp</dimen>
+
+    <dimen name="text_view_label_last_text_size">30sp</dimen>
+    <dimen name="text_view_queue_size_text_size">40sp</dimen>
+</resources>

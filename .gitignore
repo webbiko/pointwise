@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 *.iml
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
 
+=======
+>>>>>>> 681ee0836c9482b4cfbf99a979dface24bc325c1
 # Built application files
 *.apk
 *.ap_

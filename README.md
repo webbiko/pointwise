@@ -16,4 +16,4 @@ For priority queue a class named UserData.java was created with following attrib
 When running application you will notice that queue size may be zero since the inteval of time for each service are very close but after a minute the queue size will be increated and the consumer will not be able to accompany the producer. In a real application the user data would be pagined and sent to server as json format then deleted from local datastore if it returned 200K.
 
 For data displayed on screen you will noticed that a weight is also displayed> eg.: [8] Pointwise.
-** An overview of how application is architecture may be found at application root directory (Pointwise_Archictecture.png)
+An overview of how application is architecture may be found at application root directory (Pointwise_Archictecture.png)
